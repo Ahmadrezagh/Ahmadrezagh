@@ -8,11 +8,12 @@ I'm Ahmadreza, a passionate backend developer from Iran/Tehran. Welcome to my Gi
 - 👯 I’m looking to collaborate on [Creative ideas].
 - 💬 Ask me about [ PHP - Laravel ].
 - 📫 How to reach me: [ ahmadreza@ultimatesoft.co ] or [ ultimatesoft.co ].
-- 😄 Pronouns: [Your Pronouns].
+<!-- - 😄 Pronouns: [Your Pronouns]. -->
 
 ## 🔧 Technologies & Tools
 
-![HTML,CSS](https://img.shields.io/badge/-Tech1-333333?style=flat&logo=tech1)
+![HTML]([https://img.shields.io/badge/-Tech1-333333?style=flat&logo=tech1](https://github.com/coherencez/tech-logos/blob/master/html5.png))
+![CSS]([https://github.com/coherencez/tech-logos/blob/master/css3.png]))
 ![BootStrap](https://img.shields.io/badge/-Tech2-333333?style=flat&logo=tech2)
 ![PHP](https://img.shields.io/badge/-Tech3-333333?style=flat&logo=tech3)
 ![LARAVEL](https://img.shields.io/badge/-Tech4-333333?style=flat&logo=tech4)
