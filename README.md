@@ -5,15 +5,18 @@ I'm Ahmadreza, a passionate backend developer from Iran/Tehran. Welcome to my Gi
 ## 🚀 About Me
 
 - 🌱 I’m currently learning/working on [Laravel].
-- 👯 I’m looking to collaborate on [].
+- 👯 I’m looking to collaborate on [Creative ideas].
 - 💬 Ask me about [ PHP - Laravel ].
 - 📫 How to reach me: [ ahmadreza@ultimatesoft.co ] or [ ultimatesoft.co ].
 - 😄 Pronouns: [Your Pronouns].
 
 ## 🔧 Technologies & Tools
 
-![Tech1](https://img.shields.io/badge/-Tech1-333333?style=flat&logo=tech1)
-![Tech2](https://img.shields.io/badge/-Tech2-333333?style=flat&logo=tech2)
+![HTML,CSS](https://img.shields.io/badge/-Tech1-333333?style=flat&logo=tech1)
+![BootStrap](https://img.shields.io/badge/-Tech2-333333?style=flat&logo=tech2)
+![PHP](https://img.shields.io/badge/-Tech3-333333?style=flat&logo=tech3)
+![LARAVEL](https://img.shields.io/badge/-Tech4-333333?style=flat&logo=tech4)
+![Python](https://img.shields.io/badge/-Tech5-333333?style=flat&logo=tech5)
 <!-- Add more technologies and tools as needed -->
 
 ## 🛠️ Projects
