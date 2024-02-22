@@ -41,7 +41,7 @@ I'm Ahmadreza, a passionate backend developer from Iran/Tehran. Welcome to my Gi
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&hide_border=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ahmadrezagh&show_icons=true&hide_title=true&hide_border=true)
 
 <!-- Add more GitHub Stats or custom widgets as needed -->
 
