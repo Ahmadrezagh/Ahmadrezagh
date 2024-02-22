@@ -1,16 +1,58 @@
-### Hi there 👋
+# Hello, World! 👋
 
-<!--
-**Ahmadrezagh/Ahmadrezagh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ahmadreza, a passionate backend developer from Iran/Tehran. Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning/working on [Laravel].
+- 👯 I’m looking to collaborate on [].
+- 💬 Ask me about [ PHP - Laravel ].
+- 📫 How to reach me: [ ahmadreza@ultimatesoft.co ] or [ ultimatesoft.co ].
+- 😄 Pronouns: [Your Pronouns].
+
+## 🔧 Technologies & Tools
+
+![Tech1](https://img.shields.io/badge/-Tech1-333333?style=flat&logo=tech1)
+![Tech2](https://img.shields.io/badge/-Tech2-333333?style=flat&logo=tech2)
+<!-- Add more technologies and tools as needed -->
+
+## 🛠️ Projects
+
+### [Menuto](https://menuto.app)
+
+- Revolutionize dining experiences with our innovative online QR menu web application, seamlessly connecting cafes and restaurants with patrons through contactless, efficient, and visually appealing digital menus.
+- Laravel, Next JS.
+
+### [Mohamadi Melk](https://mohamadimelk.ir)
+
+- Online Real Estate.
+- Laravel.
+
+<!-- Add more projects as needed -->
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourLinkedIn-blue)](https://www.linkedin.com/in/ahmadrezaweb/)
+<!-- [![Twitter](https://img.shields.io/badge/Twitter-YourTwitter-blue)](Your Twitter URL) -->
+<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-YourPortfolio-blue)](Your Portfolio URL) -->
+
+## 📊 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&hide_border=true)
+
+<!-- Add more GitHub Stats or custom widgets as needed -->
+
+
+## 🤝 Open Source Contributions
+
+- [Admin Panel Laravel 10](git@github.com:Ahmadrezagh/AdminPanelLaravel10-Persian.git)
+
+<!-- Add more contributions as needed -->
+
+## ❤️ Support
+
+<!--If you find my work helpful, consider supporting me by [buying me a coffee](Your Buy Me a Coffee Link)! -->
+
+---
+
+Feel free to explore my repositories and let's connect! ✨
