@@ -59,6 +59,7 @@ Passionate about robust APIs, high-performance backends, and product-focused eng
 | **IranMotarjeman** | Translation freelancer marketplace with AI-assisted translation tools | Web platform | [iranmotarjeman.com](https://iranmotarjeman.com/) |
 | **Roominest** | Online class platform powered by BigBlueButton with subscription packages | Laravel, BBB | [roominest.com](https://roominest.com/) |
 | **Deutsch Center CRM** | Educational CRM for German language learning — classes, exams, online sessions | Laravel, BBB | [crm.deutschcenter.org](https://crm.deutschcenter.org/) |
+| **IranAkademi** | University entrance-exam academy with counseling, psychology, and student success services | Laravel | [iranakademi.com](https://iranakademi.com) |
 | **Nerkhoone** | Live currency exchange rate board with real-time IRR prices and API access | Python, Flask, PWA | [nerkhoone.com](https://nerkhoone.com/) |
 | **Jibeto** | Personal finance app with quick transactions and secure phone auth | Flutter, Laravel | [Cafe Bazaar](https://cafebazaar.ir/app/com.example.personal_finance_app) |
 
