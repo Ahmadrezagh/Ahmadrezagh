@@ -1,6 +1,6 @@
 # Hi, I'm Ahmadreza Ghanbari 👋
 
-**Laravel Developer** based in Tehran, Iran — building clean, scalable web applications with Laravel and modern technologies.
+**Software Engineer** based in Tehran, Iran — building clean, scalable web applications with Laravel and modern technologies.
 
 Passionate about robust APIs, high-performance backends, and product-focused engineering. Currently shipping e-commerce, CRM, EdTech, and fintech platforms.
 
