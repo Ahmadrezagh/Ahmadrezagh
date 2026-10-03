@@ -4,7 +4,7 @@
 
 Passionate about robust APIs, high-performance backends, and product-focused engineering. Currently shipping e-commerce, CRM, EdTech, and fintech platforms.
 
-🌐 Portfolio: [ahmadreza.dev](https://ahmadreza.dev) · ✉️ [contact@ahmadreza.dev](mailto:contact@ahmadreza.dev)
+🌐 Portfolio: [ahmadrezagh.github.io](https://ahmadrezagh.github.io) · ✉️ [ahmadreza1998dev@gmail.com](mailto:ahmadreza1998dev@gmail.com)
 
 ---
 
@@ -66,8 +66,8 @@ Passionate about robust APIs, high-performance backends, and product-focused eng
 
 ## Connect
 
-[![Website](https://img.shields.io/badge/Website-ahmadreza.dev-FF2D20?style=flat-square&logo=google-chrome&logoColor=white)](https://ahmadreza.dev)
-[![Email](https://img.shields.io/badge/Email-contact%40ahmadreza.dev-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@ahmadreza.dev)
+[![Website](https://img.shields.io/badge/Website-ahmadrezagh.github.io-FF2D20?style=flat-square&logo=google-chrome&logoColor=white)](https://ahmadrezagh.github.io)
+[![Email](https://img.shields.io/badge/Email-ahmadreza1998dev%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ahmadreza1998dev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ahmadrezaweb-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmadrezaweb/)
 [![GitHub](https://img.shields.io/badge/GitHub-Ahmadrezagh-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Ahmadrezagh)
 [![Telegram](https://img.shields.io/badge/Telegram-ahmadreza.web-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/ahmadreza.web)
